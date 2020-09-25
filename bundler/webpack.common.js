@@ -11,7 +11,7 @@ module.exports = {
     },
     plugins:
     [
-        new CopyWebpackPlugin([ { from: 'static' } ]),
+        new CopyWebpackPlugin({patterns: [{ from: 'static', to: 'dist'}] }),
         new HtmlWebpackPlugin({
             template: path.resolve(__dirname, '../src/index.html'),
             minify: true
