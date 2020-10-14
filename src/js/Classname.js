@@ -2,6 +2,6 @@ export default class Classname
 {
     constructor()
     {
-        console.log('Hello Webpack pute')
+        console.log('Hello Webpack')
     }
 }
