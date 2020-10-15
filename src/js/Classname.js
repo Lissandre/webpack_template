@@ -1,7 +1,5 @@
-export default class Classname
-{
-    constructor()
-    {
-        console.log('Hello Webpack')
-    }
+export default class Classname {
+  constructor() {
+    console.log('Hello Webpack')
+  }
 }
