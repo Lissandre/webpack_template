@@ -1,4 +1,4 @@
-import './css/style.styl'
+import './css/common.styl'
 import Classname from './js/Classname.js'
 
 new Classname()
