@@ -1,7 +1,5 @@
 # WEBPACK TEMPLATE
 
-===========
-
 ## Features
 - eslint
 - prettier
