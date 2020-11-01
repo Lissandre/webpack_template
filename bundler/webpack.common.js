@@ -8,6 +8,14 @@ module.exports = {
     filename: 'bundle.[hash].js',
     path: path.resolve(__dirname, '../dist'),
   },
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, '../src/'),
+      '@fonts': path.resolve(__dirname, '../src/fonts/'),
+      '@css': path.resolve(__dirname, '../src/css/'),
+      '@js': path.resolve(__dirname, '../src/js/'),
+    }
+  },
   plugins: [
     new CopyWebpackPlugin({ patterns: [{ from: 'static', to: 'dist' }] }),
     new HtmlWebpackPlugin({
