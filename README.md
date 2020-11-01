@@ -8,13 +8,13 @@
 - alias
 
 ## Alias
-- @: src/
-- @js: src/js/
-- @style: src/style/
-- @fonts: src/fonts/
+- **@**: ```src/```
+- **@js**: ```src/js/```
+- **@style**: ```src/style/```
+- **@fonts**: ```src/fonts/```
 
 ## Requirements
-You need to have <b>node.js</b> installed. 
+You need to have **node.js** installed. 
 
 ## Setup
 Install dependencies
