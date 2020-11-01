@@ -10,7 +10,7 @@
 ## Alias
 - @: src/
 - @js: src/js/
-- @css: src/css/
+- @style: src/style/
 - @fonts: src/fonts/
 
 ## Requirements

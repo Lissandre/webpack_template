@@ -12,7 +12,7 @@ module.exports = {
     alias: {
       '@': path.resolve(__dirname, '../src/'),
       '@fonts': path.resolve(__dirname, '../src/fonts/'),
-      '@css': path.resolve(__dirname, '../src/css/'),
+      '@style': path.resolve(__dirname, '../src/style/'),
       '@js': path.resolve(__dirname, '../src/js/'),
     }
   },
@@ -23,7 +23,6 @@ module.exports = {
       minify: true,
     }),
   ],
-  devtool: 'source-map',
   module: {
     rules: [
       {
