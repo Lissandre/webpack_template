@@ -9,9 +9,9 @@
 
 ## Alias
 - @: src/
-- @js: src/js
-- @css: src/css
-- @fonts: src/fonts
+- @js: src/js/
+- @css: src/css/
+- @fonts: src/fonts/
 
 ## Requirements
 You need to have <b>node.js</b> installed. 
