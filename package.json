@@ -1,7 +1,7 @@
 {
-  "name": "webpack_boilerplate",
+  "name": "webpack_template",
   "version": "2.1.0",
-  "description": "Webpack boilerplate",
+  "description": "Webpack template",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -45,10 +45,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lissandre/webpack-template.git"
+    "url": "git+https://github.com/Lissandre/webpack_template.git"
   },
   "bugs": {
-    "url": "https://github.com/Lissandre/webpack-template/issues"
+    "url": "https://github.com/Lissandre/webpack_template/issues"
   },
-  "homepage": "https://github.com/Lissandre/webpack-template#readme"
+  "homepage": "https://github.com/Lissandre/webpack_template#readme"
 }
