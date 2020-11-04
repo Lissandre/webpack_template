@@ -13,6 +13,7 @@
 - **@js**: ```src/js/```
 - **@style**: ```src/style/```
 - **@fonts**: ```src/fonts/```
+- **@assets**: ```src/assets/```
 
 ## Requirements
 You need to have **node.js** installed. 
