@@ -20,7 +20,7 @@ You need to have **node.js** installed.
 
 ## Setup
 ```sh
-$ npm init
+$ npm run init
 ```
 This command will init a git repository on your machine, install dependencies and remove useless files and directories for your project.
 After that, this command won't be available anymore.
