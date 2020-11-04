@@ -1,4 +1,4 @@
 import '@style/common.styl'
-import Classname from '@js/Classname.js'
+import App from '@js/App.js'
 
-new Classname()
+new App()
