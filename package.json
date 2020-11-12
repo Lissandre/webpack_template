@@ -26,7 +26,7 @@
     "prettier": "^2.1.2",
     "style-loader": "^2.0.0",
     "stylus": "^0.54.8",
-    "stylus-loader": "^4.2.0",
+    "stylus-loader": "^4.3.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.2.0",
     "webpack-dev-server": "^3.11.0",
