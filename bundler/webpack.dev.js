@@ -16,6 +16,7 @@ module.exports = webpackMerge.merge(
       contentBase: './dist',
       open: true,
       hot: true,
+      inline: true,
       overlay: {
         warnings: true,
         errors: true

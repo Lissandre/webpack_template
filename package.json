@@ -1,6 +1,6 @@
 {
   "name": "webpack_template",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Webpack template",
   "main": "index.js",
   "dependencies": {},
