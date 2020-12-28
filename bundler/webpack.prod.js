@@ -20,9 +20,7 @@ module.exports = webpackMerge.merge(
           use: [
             {
               loader: MiniCssExtractPlugin.loader,
-              options: {
-                publicPath: path.resolve(__dirname, '../dist'),
-              },
+              options: { publicPath: './'},
             },
             'css-loader',
             'stylus-loader'
